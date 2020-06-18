@@ -11,4 +11,3 @@ For this project, you will require to install some libraries which are:
 -	Download the zip file.
 -	Unzip it and place the contents of folder in your current directory where Jupyter Notebook is installed.
 -	Install necessary libraries and run the file named “od_coil-20-unproc.ipynb”.
--	Create the folder named datasets and put dataset in this.
