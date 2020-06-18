@@ -7,6 +7,18 @@ For this project, you will require to install some libraries which are:
 -	Shutil
 -	Keras
 -	Numpy
+## Steps:
+- importing keras,os and shutil libraries.
+- checking the dataset directory.
+- creating train,test,val in prepared folder
+- creating five classes in test, train ,val
+- copying images of objs to their respective test ,train ,val
+- Building model
+- view model summary
+- compiling the model
+- image processing on dataset.
+- Fit and save the model.
+- predict an image through model
 ## How to run the project?
 -	Download the zip file.
 -	Unzip it and place the contents of folder in your current directory where Jupyter Notebook is installed.
